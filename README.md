@@ -13,4 +13,5 @@ The Purpose of this project was to find the best fit to help classify a specific
 The dataset had a little over 18,000 entries, based on these different columns: ID, Area, MajorAxisLength, MinorAxisLength,	Eccentricity,	ConvexArea,	EquivDiameter,
 Extent,	Perimeter,	Roundness,	AspectRation, and	Class. All of which I was not expecting as different parameters to determine rice.
 
-
+First, I imported the required libraries for this project.
+![image](https://user-images.githubusercontent.com/120366695/206996007-654bff8a-8686-4e8e-8d9c-6d5e16469a96.png)
