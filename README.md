@@ -40,9 +40,10 @@ And for the labels y, I just need the Class column.
 
 ![image](https://user-images.githubusercontent.com/120366695/206997659-f1f52bfa-a26b-4994-adb5-ae4d692da4fe.png)
 
-I then use the seaborn pairplot function to see the different plots created between the features. The picture is to big to fit on the screen,
+I then use the seaborn pairplot function to see the different plots created between the features. The picture is too big to fit on the screen,
 but the full picture can be found in the jupyter textbook
 
+![image](https://user-images.githubusercontent.com/120366695/206998066-a4852f46-e762-481b-8ab3-b009ec92dbba.png)
 
 
 
