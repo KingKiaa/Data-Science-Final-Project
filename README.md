@@ -73,7 +73,19 @@ of the Linear SVC is quite impressive.
 
 ![image](https://user-images.githubusercontent.com/120366695/207000435-69a3ba57-bb87-4e9c-a2a0-507217aa3800.png)
 
-F
+I was then able to create a classification report using the function and got very high values, all within 98% and 99%.
+Accuracy was around 99%, precision was also around 99%.
+
+![image](https://user-images.githubusercontent.com/120366695/207001656-160500c5-2653-41a3-bd00-4c0a8e55894f.png)
+
+Another project like this was also done by another person, but using the SGD Classifier method and the success rate was almost the same as the Linear SVC.
+This goes to show the immense and obvious difference between these two types of rice. 
+The answer overall implies that the difference between Gonen and Jasmine rice is indeed much bigger than we could ever imagine, the little intricacies in the way
+different rice measure is immense. 
+Future improvements and also research that can be added to this project could be the addition of multiple other types of rice, such as basmati and etc. This would
+give a better understanding of how the classification actually works, because a binary classification is great and all, but it is only two at the end of the day.
+
+
 
 
 
