@@ -84,7 +84,9 @@ The answer overall implies that the difference between Gonen and Jasmine rice is
 different rice measure is immense. 
 Future improvements and also research that can be added to this project could be the addition of multiple other types of rice, such as basmati and etc. This would
 give a better understanding of how the classification actually works, because a binary classification is great and all, but it is only two at the end of the day.
-
+Overall, the training score and prediction percentage came back strong and that shows how much easier it is to classify these two different types of rice, what
+a question to ponder is, whether or not with the addition of other types of rice and features, could we see a huge percentage decrease in training score and
+prediction percentage.
 
 
 
