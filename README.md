@@ -36,6 +36,44 @@ I also do not want the Class column because that is my label that corresponds to
 
 ![image](https://user-images.githubusercontent.com/120366695/206997413-d5bd5d63-df81-4db5-88a3-2f7ddc207845.png)
 
+And for the labels y, I just need the Class column.
+
+![image](https://user-images.githubusercontent.com/120366695/206997659-f1f52bfa-a26b-4994-adb5-ae4d692da4fe.png)
+
+I then use the seaborn pairplot function to see the different plots created between the features. The picture is to big to fit on the screen,
+but the full picture can be found in the jupyter textbook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
