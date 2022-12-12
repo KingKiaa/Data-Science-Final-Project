@@ -9,5 +9,6 @@ The classification of two different types of rice stood out to me in that way.
 
 The Purpose of this project was to find the best fit to help classify a specific dataset that involved two different types of rice, Gonen and Jasmine.
 The dataset had a little over 18,000 entries, based on these different columns: ID, Area, MajorAxisLength, MinorAxisLength,	Eccentricity,	ConvexArea,	EquivDiameter,
-Extent,	Perimeter,	Roundness,	AspectRation, and	Class. All of which I was not
+Extent,	Perimeter,	Roundness,	AspectRation, and	Class. All of which I was not expecting as different parameters to determine rice.
+
 
