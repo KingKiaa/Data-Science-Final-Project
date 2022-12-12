@@ -1,5 +1,7 @@
 Data Science Final Project Report
+
 Kia Aalaei
+
 Dataset: https://www.kaggle.com/datasets/seymasa/rice-dataset-gonenjasmine 
 
 I decided to choose this project because I was scrolling through all of the possible datasets to use and this one really stood out to me.
