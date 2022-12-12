@@ -29,3 +29,37 @@ Next I decided to use the info() function to look for any null values that may b
 
 ![image](https://user-images.githubusercontent.com/120366695/206996594-c1746ebf-d6ee-4923-9d79-e23c7374862f.png)
 
+The first was to divide the dataset into features and labels, this is due to the fact that I know what classification each row goes into.
+I already know the data. I give features the variable x and labels the variable y. 
+I use the drop() function to drop the columns ID and class for my features, this is because I don't want the ID numbers as a part of my testing data.
+I also do not want the Class column because that is my label that corresponds to the specific features.
+
+![image](https://user-images.githubusercontent.com/120366695/206997413-d5bd5d63-df81-4db5-88a3-2f7ddc207845.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
