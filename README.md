@@ -45,6 +45,22 @@ but the full picture can be found in the jupyter textbook
 
 ![image](https://user-images.githubusercontent.com/120366695/206998066-a4852f46-e762-481b-8ab3-b009ec92dbba.png)
 
+After the creation of the features and labels, I want to split my dataset into training and testing, and I chose 33% of the dataset to be used for testing,
+67% of the dataset will be used for training. I use the train_test_split() function to split the dataset and create different test and train variables for x and y.
+
+![image](https://user-images.githubusercontent.com/120366695/206998669-09249e1a-7014-451f-a3c7-22e156f39af4.png)
+
+For the method to use for classification, I looked at the Scikit-learn algorithm cheat sheet that shows what method would work best for your classification.
+I started at the beginning, I definitely have more than 50 samples, I already have labeled data and less than 100k samples, so the best option for me was the
+Linear SVC, and that is what I used.
+
+![image](https://user-images.githubusercontent.com/120366695/206999199-081a359d-5ee1-4a76-9e23-113bbfe58e0f.png)
+
+I then intialized the Linear SVC.
+
+![image](https://user-images.githubusercontent.com/120366695/206999323-09cea6ef-3ed2-42dc-915b-fa6a43ad42ef.png)
+
+
 
 
 
