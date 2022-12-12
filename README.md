@@ -60,9 +60,20 @@ I then intialized the Linear SVC.
 
 ![image](https://user-images.githubusercontent.com/120366695/206999323-09cea6ef-3ed2-42dc-915b-fa6a43ad42ef.png)
 
+The next step is to fit the model on training data and get a training score based on that. I first fit the training data x and y using the function.
+Then to check the score we can use two different ways of doing it, Linear SVC score function or the Cross Validation Score function.
+Both methods gave me a score of around 98.87%, which is incredibly good.
 
+![image](https://user-images.githubusercontent.com/120366695/206999614-049bce7f-d911-40d7-824a-b3e67b11c972.png)
 
+Next, I can predict my test data by using the model, by using the predict function. I also created a confusion matrix to compare the tested and predicted y.
+From the confusion matrix, Jasmine is 1 and Gonen is 0. If the true value is Gonen, the prediction had around 2,700 cases where it was right and about 48 cases
+where it was wrong. If the true value is Jasmine, it predicted it right around 3,200 times and wrong around 23 times. So overall, the prediction ability
+of the Linear SVC is quite impressive.
 
+![image](https://user-images.githubusercontent.com/120366695/207000435-69a3ba57-bb87-4e9c-a2a0-507217aa3800.png)
+
+F
 
 
 
